@@ -1,2 +1,3 @@
 # hello-world
-Inaugural baby coding effort.  Heaven help us all.
+Inaugural baby coding effort.  
+Just trying to figure this out...
